@@ -1,0 +1,15 @@
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\bin\Debug\net6.0\homewoke 5.exe
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\bin\Debug\net6.0\homewoke 5.deps.json
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\bin\Debug\net6.0\homewoke 5.runtimeconfig.json
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\bin\Debug\net6.0\homewoke 5.dll
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\bin\Debug\net6.0\homewoke 5.pdb
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\homewoke 5.csproj.AssemblyReference.cache
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\homewoke 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\homewoke 5.AssemblyInfoInputs.cache
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\homewoke 5.AssemblyInfo.cs
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\homewoke 5.csproj.CoreCompileInputs.cache
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\homewoke 5.dll
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\refint\homewoke 5.dll
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\homewoke 5.pdb
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\homewoke 5.genruntimeconfig.cache
+C:\Users\bampr\OneDrive\Desktop\homewoke 5\obj\Debug\net6.0\ref\homewoke 5.dll
